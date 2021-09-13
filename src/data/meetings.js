@@ -6,9 +6,11 @@ export default {
     title: 'Weekly Backlog Grooming',
     localAudio: {
       stream: new MediaStream(),
+      preview: null,
     },
     localVideo: {
       stream: new MediaStream(),
+      preview: null,
     },
     localShare: {
       stream: new MediaStream(),
@@ -28,9 +30,11 @@ export default {
     title: 'Lunch and Learn',
     localAudio: {
       stream: null,
+      preview: null,
     },
     localVideo: {
       stream: null,
+      preview: null,
     },
     localShare: {
       stream: null,
@@ -50,9 +54,11 @@ export default {
     title: 'Quarterly Financial Report',
     localAudio: {
       stream: new MediaStream(),
+      preview: null,
     },
     localVideo: {
       stream: new MediaStream(),
+      preview: null,
     },
     localShare: {
       stream: null,
@@ -72,9 +78,11 @@ export default {
     title: '1:1 Barbara/Brandon',
     localAudio: {
       stream: new MediaStream(),
+      preview: null,
     },
     localVideo: {
       stream: new MediaStream(),
+      preview: null,
     },
     localShare: {
       stream: new MediaStream(),
@@ -94,9 +102,11 @@ export default {
     title: 'Barbara German',
     localAudio: {
       stream: new MediaStream(),
+      preview: null,
     },
     localVideo: {
       stream: null,
+      preview: null,
     },
     localShare: {
       stream: null,
@@ -116,9 +126,11 @@ export default {
     title: 'Audio Trouble',
     localAudio: {
       stream: null,
+      preview: null,
     },
     localVideo: {
       stream: new MediaStream(),
+      preview: null,
     },
     localShare: {
       stream: null,
@@ -138,9 +150,11 @@ export default {
     title: null,
     localAudio: {
       stream: null,
+      preview: null,
     },
     localVideo: {
       stream: null,
+      preview: null,
     },
     localShare: {
       stream: null,
@@ -160,9 +174,11 @@ export default {
     title: null,
     localAudio: {
       stream: null,
+      preview: null,
     },
     localVideo: {
       stream: null,
+      preview: null,
     },
     localShare: {
       stream: null,
@@ -182,9 +198,11 @@ export default {
     title: null,
     localAudio: {
       stream: null,
+      preview: null,
     },
     localVideo: {
       stream: null,
+      preview: null,
     },
     localShare: {
       stream: null,
