@@ -20,8 +20,8 @@ export default {
     showRoster: false,
     showSettings: false,
     cameraID: 'cameraID1',
-    microphoneID: 'microphoneID1',
-    speakerID: 'speakerID1',
+    microphoneID: 'default',
+    speakerID: 'default',
   },
   meeting2: {
     ID: 'meeting2',
